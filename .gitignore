@@ -1,7 +1,7 @@
 # Ignorar archivos sensibles
-.env.*
 *.pyc
 __pycache__
 .DS_Store
 *.log
 .venv
+.env

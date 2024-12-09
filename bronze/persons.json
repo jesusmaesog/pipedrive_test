@@ -34,9 +34,9 @@
             "participant_open_deals_count": 0,
             "participant_closed_deals_count": 0,
             "email_messages_count": 0,
-            "activities_count": 0,
+            "activities_count": 1,
             "done_activities_count": 0,
-            "undone_activities_count": 0,
+            "undone_activities_count": 1,
             "files_count": 0,
             "notes_count": 0,
             "followers_count": 1,
@@ -47,20 +47,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "616-382-4998",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "616-382-4998",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "melissarussell@example.org",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -69,20 +65,22 @@
                 }
             ],
             "first_char": "a",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:26:11",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:50",
             "visible_to": "3",
             "picture_id": null,
-            "next_activity_date": null,
-            "next_activity_time": null,
-            "next_activity_id": null,
+            "next_activity_date": "2024-12-13",
+            "next_activity_time": "11:30:00",
+            "next_activity_id": 1,
             "last_activity_id": null,
             "last_activity_date": null,
             "last_incoming_mail_time": null,
             "last_outgoing_mail_time": null,
-            "label": null,
-            "label_ids": [],
+            "label": 16,
+            "label_ids": [
+                16
+            ],
             "im": [
                 {
                     "value": "",
@@ -107,7 +105,7 @@
             "job_title": null,
             "org_name": "Walker Inc",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "616-382-4998",
+            "primary_email": "melissarussell@example.org",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -156,20 +154,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "(615)472-6931x96207",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "(615)472-6931x96207",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "johncarrillo@example.org",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -178,7 +172,7 @@
                 }
             ],
             "first_char": "b",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:20:01",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:50",
             "visible_to": "3",
@@ -216,7 +210,7 @@
             "job_title": null,
             "org_name": "Barton Ltd",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "(615)472-6931x96207",
+            "primary_email": "johncarrillo@example.org",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -265,20 +259,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "938-623-0572x4459",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "938-623-0572x4459",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "kmacdonald@example.org",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -287,7 +277,7 @@
                 }
             ],
             "first_char": "r",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:20:21",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:50",
             "visible_to": "3",
@@ -325,7 +315,7 @@
             "job_title": null,
             "org_name": "Casey and Sons",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "938-623-0572x4459",
+            "primary_email": "kmacdonald@example.org",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -374,20 +364,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "001-447-924-7228x5869",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "001-447-924-7228x5869",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "loririchards@example.net",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -396,7 +382,7 @@
                 }
             ],
             "first_char": "k",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:20:33",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:50",
             "visible_to": "3",
@@ -434,7 +420,7 @@
             "job_title": null,
             "org_name": "Mejia PLC",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "001-447-924-7228x5869",
+            "primary_email": "loririchards@example.net",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -483,20 +469,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "512.978.6585x344",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "512.978.6585x344",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "michellestafford@example.net",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -505,7 +487,7 @@
                 }
             ],
             "first_char": "e",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:20:49",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:50",
             "visible_to": "3",
@@ -543,7 +525,7 @@
             "job_title": null,
             "org_name": "Mayo-Nguyen",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "512.978.6585x344",
+            "primary_email": "michellestafford@example.net",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -592,20 +574,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "+1-504-823-4515x0681",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "2123629746",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "joesims@example.org",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -614,7 +592,7 @@
                 }
             ],
             "first_char": "k",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:22:13",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:51",
             "visible_to": "3",
@@ -652,7 +630,7 @@
             "job_title": null,
             "org_name": "Mann Group",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "2123629746",
+            "primary_email": "joesims@example.org",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -701,20 +679,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "2123629746",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "+1-504-823-4515x0681",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "robert36@example.com",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -723,7 +697,7 @@
                 }
             ],
             "first_char": "s",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:22:18",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:52",
             "visible_to": "3",
@@ -761,7 +735,7 @@
             "job_title": null,
             "org_name": "Wyatt Inc",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "+1-504-823-4515x0681",
+            "primary_email": "robert36@example.com",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -810,20 +784,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "+1-291-959-4348x20716",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "+1-291-959-4348x20716",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "sullivanmary@example.com",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -832,7 +802,7 @@
                 }
             ],
             "first_char": "c",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:31:12",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:52",
             "visible_to": "3",
@@ -870,7 +840,7 @@
             "job_title": null,
             "org_name": "Peters, Vaughn and Beck",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "+1-291-959-4348x20716",
+            "primary_email": "sullivanmary@example.com",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -919,20 +889,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "001-573-213-2794x90253",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "001-573-213-2794x90253",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "tiffany37@example.net",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -941,7 +907,7 @@
                 }
             ],
             "first_char": "j",
-            "update_time": "2024-12-03 10:34:53",
+            "update_time": "2024-12-09 11:31:31",
             "delete_time": null,
             "add_time": "2024-12-03 10:34:52",
             "visible_to": "3",
@@ -979,7 +945,7 @@
             "job_title": null,
             "org_name": "Parker PLC",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "001-573-213-2794x90253",
+            "primary_email": "tiffany37@example.net",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         },
         {
@@ -10838,20 +10804,16 @@
             "active_flag": true,
             "phone": [
                 {
-                    "value": "",
+                    "label": "work",
+                    "value": "001-519-633-9113x21477",
                     "primary": true
                 }
             ],
             "email": [
                 {
                     "label": "work",
-                    "value": "001-519-633-9113x21477",
-                    "primary": true
-                },
-                {
-                    "label": "work",
                     "value": "lsampson@example.net",
-                    "primary": false
+                    "primary": true
                 },
                 {
                     "label": "work",
@@ -10860,7 +10822,7 @@
                 }
             ],
             "first_char": "b",
-            "update_time": "2024-12-03 10:35:30",
+            "update_time": "2024-12-09 11:05:49",
             "delete_time": null,
             "add_time": "2024-12-03 10:35:28",
             "visible_to": "3",
@@ -10898,7 +10860,7 @@
             "job_title": null,
             "org_name": "Dennis-Hurst",
             "owner_name": "Jes\u00fas Maeso",
-            "primary_email": "001-519-633-9113x21477",
+            "primary_email": "lsampson@example.net",
             "cc_email": "jesusmaeso-sandbox@pipedrivemail.com"
         }
     ],

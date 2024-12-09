@@ -27,13 +27,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "616-382-4998",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "melissarussell@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -43,7 +38,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "616-382-4998",
                         "primary": true
                     }
                 ],
@@ -148,13 +144,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "001-447-924-7228x5869",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "loririchards@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -164,7 +155,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "001-447-924-7228x5869",
                         "primary": true
                     }
                 ],
@@ -269,13 +261,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "938-623-0572x4459",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "kmacdonald@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -285,7 +272,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "938-623-0572x4459",
                         "primary": true
                     }
                 ],
@@ -390,13 +378,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "512.978.6585x344",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "michellestafford@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -406,7 +389,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "512.978.6585x344",
                         "primary": true
                     }
                 ],
@@ -511,13 +495,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "(615)472-6931x96207",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "johncarrillo@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -527,7 +506,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "(615)472-6931x96207",
                         "primary": true
                     }
                 ],
@@ -632,13 +612,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "+1-291-959-4348x20716",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "sullivanmary@example.com",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -648,7 +623,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "+1-291-959-4348x20716",
                         "primary": true
                     }
                 ],
@@ -753,13 +729,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "001-573-213-2794x90253",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "tiffany37@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -769,7 +740,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "001-573-213-2794x90253",
                         "primary": true
                     }
                 ],
@@ -874,13 +846,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "+1-504-823-4515x0681",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "robert36@example.com",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -890,7 +857,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "2123629746",
                         "primary": true
                     }
                 ],
@@ -995,13 +963,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "2123629746",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "joesims@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -1011,7 +974,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "+1-504-823-4515x0681",
                         "primary": true
                     }
                 ],
@@ -12006,13 +11970,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "001-519-633-9113x21477",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "lsampson@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -12022,7 +11981,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "001-519-633-9113x21477",
                         "primary": true
                     }
                 ],
@@ -12045,7 +12005,7 @@
             "value": 1450727,
             "currency": "EUR",
             "add_time": "2024-12-03 10:35:30",
-            "update_time": "2024-12-03 10:35:30",
+            "update_time": "2024-12-09 11:05:57",
             "stage_change_time": null,
             "active": true,
             "deleted": false,
@@ -12081,8 +12041,8 @@
             "local_close_date": null,
             "origin": "Import",
             "origin_id": "286bf0b3-3713-4979-b88b-08361cc8eca9",
-            "channel": null,
-            "channel_id": null,
+            "channel": 7,
+            "channel_id": "1545461498748",
             "stage_order_nr": 0,
             "person_name": "Bethany Smith",
             "org_name": "Dennis-Hurst",
@@ -13242,13 +13202,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "616-382-4998",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "melissarussell@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13258,7 +13213,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "616-382-4998",
                         "primary": true
                     }
                 ],
@@ -13271,13 +13227,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "(615)472-6931x96207",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "johncarrillo@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13287,7 +13238,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "(615)472-6931x96207",
                         "primary": true
                     }
                 ],
@@ -13300,13 +13252,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "938-623-0572x4459",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "kmacdonald@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13316,7 +13263,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "938-623-0572x4459",
                         "primary": true
                     }
                 ],
@@ -13329,13 +13277,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "001-447-924-7228x5869",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "loririchards@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13345,7 +13288,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "001-447-924-7228x5869",
                         "primary": true
                     }
                 ],
@@ -13358,13 +13302,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "512.978.6585x344",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "michellestafford@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13374,7 +13313,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "512.978.6585x344",
                         "primary": true
                     }
                 ],
@@ -13387,13 +13327,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "2123629746",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "joesims@example.org",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13403,7 +13338,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "+1-504-823-4515x0681",
                         "primary": true
                     }
                 ],
@@ -13416,13 +13352,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "+1-504-823-4515x0681",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "robert36@example.com",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13432,7 +13363,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "2123629746",
                         "primary": true
                     }
                 ],
@@ -13445,13 +13377,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "+1-291-959-4348x20716",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "sullivanmary@example.com",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13461,7 +13388,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "+1-291-959-4348x20716",
                         "primary": true
                     }
                 ],
@@ -13474,13 +13402,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "001-573-213-2794x90253",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "tiffany37@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -13490,7 +13413,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "001-573-213-2794x90253",
                         "primary": true
                     }
                 ],
@@ -16113,13 +16037,8 @@
                 "email": [
                     {
                         "label": "work",
-                        "value": "001-519-633-9113x21477",
-                        "primary": true
-                    },
-                    {
-                        "label": "work",
                         "value": "lsampson@example.net",
-                        "primary": false
+                        "primary": true
                     },
                     {
                         "label": "work",
@@ -16129,7 +16048,8 @@
                 ],
                 "phone": [
                     {
-                        "value": "",
+                        "label": "work",
+                        "value": "001-519-633-9113x21477",
                         "primary": true
                     }
                 ],

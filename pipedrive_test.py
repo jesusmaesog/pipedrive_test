@@ -8,7 +8,7 @@ import pyodbc
 import numpy as np
 from dotenv import load_dotenv
 
-"""
+
 # Initialize Faker for generating random data
 fake = faker.Faker()
 
@@ -40,7 +40,7 @@ df = pd.DataFrame(data)
 df
 
 df.to_csv('./Pipedrive/dababasepipedrive.csv', sep= ",", header= True, )
-"""
+
 # Cargar las variables del archivo .env
 load_dotenv()
 
@@ -281,7 +281,7 @@ column_types = {
     'org_id_value': 'INT'
 }
 
-# Crear la tabla
+# Crear la tabla1
 columns_sql = ",\n".join([f"{col} {column_types.get(col, 'NVARCHAR(100)')}" for col in df_data_columns])
 create_persons_sql = f"""
 CREATE TABLE {table_name1} (
